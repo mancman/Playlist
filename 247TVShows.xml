@@ -7,3 +7,112 @@
 <title>Arrested Development</title>
 <link>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</link>
 </item>
+
+<item>
+<title>Breaking Bad</title>
+<link>rtmp://198.27.74.25/app playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?bad02
+</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT9_xQ20xjBp-UHi7o-5ObnrWkVpcb3_S2YxM6d_ehv7kCYDaLDEQ</thumbnail>
+</item>
+ 
+<item>
+<title>It's Always Sunny In Philadelphia</title>
+<link>rtmp://198.27.74.25/app playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?sunny02
+</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT74-Uqn6g6F-JQi_ujUTyeB7glwit551aw9Xzr6K0D7303FcoA</thumbnail>
+</item>
+
+ 
+<item>
+<title>The Simpsons</title>
+<link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?2502</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110226070533/simpsons/images/0/04/Simpsons_couch-1-.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>South Park</title>
+<link>rtmp://198.27.74.25/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?southp02</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcR9tDbf8PB2mR6V3mOZ6O938hESUbFa3z-zYHo6yTaYO0FgfTug</thumbnail>
+</item>
+ 
+<item>
+<title>King Of The Hill</title>
+<link>rtmp://198.27.74.25/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02</link>
+<thumbnail>http://i360.photobucket.com/albums/oo43/Da_Killa_Ounze/KingoftheHillTheGuysBanner_zpsc8b5fec1.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Family Guy</title>
+<link>rtmp://198.27.74.25/app playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?familyguy02</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cb/Family_Guy_Logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>The Office US</title>
+<link>rtmp://198.27.74.25/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQlaapwwpv3OSaFV0bg-cgo1Mla7LEM1xG328zvVi1o39N0_l8l</thumbnail>
+</item>
+ 
+<item>
+<title>Modern Family </title>
+<link>rtmp://198.27.75.99/app playpath=mfamily02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?mfamily02</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcT1KiPSOQZ3d3xOuoN3VcePV9Wz848JiFvZfMTKZQhK0heoWOw4</thumbnail>
+</item>
+
+ 
+<item>
+<title>Sopranos</title>
+<link>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?sopranos</link>
+<thumbnail>http://static.tvtropes.org/pmwiki/pub/images/the-sopranos-2_7524.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>Community</title>
+<link>rtmp://198.27.75.99/app playpath=community01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?community01</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRbx_BNJgLg7e9pIhi_ybIYhLCFUQRdUN4porvLRjJmS2hJqM2c</thumbnail>
+</item>
+ 
+<item>
+<title>The Waking Dead</title>
+<link>rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?twd02</link>
+<thumbnail>http://media.tumblr.com/tumblr_lbe2tb99uO1qaz9m3.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>Friends</title>
+<link>rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQmQP9EZX9KzxamoMtz7fi098xsHjO87-_A4ap-TGo08j71twHE</thumbnail>
+</item>
+ 
+<item>
+<title>The Big Bang Theory</title>
+<link>rtmp://198.27.74.25/app playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?tbbt02</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQmzT8ppL5ZUCc4l88ajCB5GeVZnyWYD6l7zB2D4RmORAjO5w-4</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>The Fresh Prince Of Bell Air</title>
+<link>rtmp://198.27.74.25/app playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQs3UKHOHChtqwK4jHqi0UxlGCfTaGcsLX7VnlVEsFRmufMxmDR</thumbnail>
+</item>
+ 
+<item>
+<title>American Dad</title>
+<link>rtmp://198.27.74.25/app playpath=americandad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?americandad02</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRqJxH6FFf2eS7HVdzQiTIt5megwNUywoBIKF4qgQZO0qhz1F_7</thumbnail>
+</item>
+ 
+<item>
+<title>Star Trek</title>
+<link>rtmp://198.27.74.25/app playpath=tng02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?tng02</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTXxskgvg6CafBnkbS-03og7TLm5PmVCbG2lti3Rz1luMr_IAbRKQ</thumbnail>
+</item>
+ 
+<item>
+<title>That 70's Show</title>
+<link>rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?that70sshow</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTVcdMpngwCKp38NDS6Ut00BxGYG4KM4myjLrD-fQceEfIllBhpDQ</thumbnail>
+</item>
