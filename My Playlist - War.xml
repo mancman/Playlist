@@ -104,3 +104,40 @@
 <title>Arrested Development</title>
 <link>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</link>
 </item>
+
+<dir>
+<name>Hannibal</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+</dir>
+
+<item>
+<title>Season 1 Episode 3 </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>
+<sublink>http://movreel.com/fu8hqe5lgvay</sublink>
+<sublink></sublink>
+</link>
+</item>
+
+<item>
+<title>SSeason 1 Episode 4</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>
+<sublink>http://movreel.com/6muud7d9b5ao</sublink>
+<sublink></sublink>
+</link>
+</item>
+
+<item>
+<title>Season 1 Episode 5</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>
+<sublink>http://movreel.com/b5g4s98ty3kh</sublink>
+<sublink></sublink>
+</link>
+</item>
