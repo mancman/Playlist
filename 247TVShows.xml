@@ -1,11 +1,13 @@
 <item>
 <title>Cops</title>
 <link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops0</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/COPS_intertitle.png</thumbnail>
 </item>
 
 <item>
 <title>Arrested Development</title>
 <link>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20111023065401/arresteddevelopment/images/6/6b/Season_3_square.jpg</thumbnail>
 </item>
 
 <item>
@@ -44,7 +46,7 @@
 <item>
 <title>Family Guy</title>
 <link>rtmp://198.27.74.25/app playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?familyguy02</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cb/Family_Guy_Logo.png</thumbnail>
+<thumbnail>http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2013/02/01/family-guy_0.jpg</thumbnail>
 </item>
  
 <item>
