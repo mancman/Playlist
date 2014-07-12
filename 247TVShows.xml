@@ -1,0 +1,9 @@
+<item>
+<title>Cops</title>
+<link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops0</link>
+</item>
+
+<item>
+<title>Arrested Development</title>
+<link>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</link>
+</item>
